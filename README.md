@@ -33,4 +33,4 @@ A GUI-based cybersecurity awareness chatbot developed in C# using WPF and .NET 8
 3. Interact with the chatbot
 
 ## Author
-Your Name
+Nizaam hoosian ST10367051
