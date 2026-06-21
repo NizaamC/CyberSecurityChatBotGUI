@@ -2,8 +2,8 @@
 
 ## Student Information
 
-- Student Name: YOUR NAME
-- Student Number: YOUR STUDENT NUMBER
+- Student Name: nizaam hoosian 
+- Student Number: ST10367051
 - Module: Programming
 - Project: CyberSecurity Awareness Chatbot (POE Part 3)
 
@@ -202,29 +202,28 @@ private string connectionString =
 
 ---
 
-# Screenshots
+
 
 ## Main Chatbot Interface
 
-(Add Screenshot Here)
+
 
 ---
 
 ## Task Assistant
 
-(Add Screenshot Here)
+
 
 ---
 
 ## Quiz Feature
 
-(Add Screenshot Here)
+
 
 ---
 
 ## Activity Log
 
-(Add Screenshot Here)
 
 ---
 
@@ -261,12 +260,12 @@ Possible future enhancements include:
 
 # GitHub Repository
 
-(Add Your GitHub Repository Link Here)
+https://github.com/NizaamC/CyberSecurityChatBotGUI/edit/version-3
 
 ---
 
 # Author
-
-YOUR NAME
+nizaam hoosian
+ST0367051
 
 CyberSecurity Awareness Chatbot POE - Final Submission
